@@ -133,6 +133,13 @@
         </details>
     </details>
 
+<details>
+        <summary>2주차</summary>
+        <details>
+            <summary>K025_박재우</summary>
+                내용~~~
+        </details>
+</details>
 # 퀘스트
 
 ✅ **슬랙 스레드에 이모티콘 3개 달기**
