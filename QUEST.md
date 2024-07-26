@@ -182,7 +182,7 @@
         <details>
             <summary>J037_김민재</summary>
             <p>
-                	개발자 원칙
+                	- 개발자 원칙
             </p>
             <p>
                 	<strong>100의 프로그램을 짜기보다는 80의 프로그램을 기한내에 완성하자</strong>
