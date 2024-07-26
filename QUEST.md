@@ -155,7 +155,7 @@
             </p>
         </details>
         <details>
-            <summary>J_274 한영준</summary>
+            <summary>J274_한영준</summary>
             <p>
                 개발자원칙 P 122
 
